@@ -1,4 +1,4 @@
 # Stablecoin
 
-# Research on Stablecoin
-What makes a stablecoin stable?
+# What makes a stablecoin stable?
+Research on what makes a stablecoin stable
